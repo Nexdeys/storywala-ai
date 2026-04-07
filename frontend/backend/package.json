@@ -23,6 +23,9 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.2.3",
     "openai": "^4.31.0",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "@google/generative-ai": "^0.3.1",
     "twilio": "^5.0.1"
   },
   "devDependencies": {
